@@ -1,5 +1,5 @@
 # Ics4U-2019-winter-
-Portfolio holding all my work done by krish thakker
+Portfolio holding all work done by Krish Thakker
 
 Welcome to the Ics4U-2019-winter- wiki! My top 1 and more modules I did in this class are:
 
